@@ -1,0 +1,203 @@
+.links {
+  display: flex;
+  justify-content: right;
+  gap: 100px;
+  margin-top: -60px;
+}
+.link {
+  gap: 50px;
+  background-color: blue;
+  padding: 30px 30px;
+  align-items: center;
+  display: flex;
+  border-radius: 4px;
+}
+a {
+  text-decoration: none;
+  color: rgb(245, 244, 250);
+  font-weight: 400;
+  font-size: 16px;
+}
+.btn-4 {
+  background-color: black;
+  width: 50px;
+  margin-bottom: 50px;
+  justify-content: center;
+  /* margin-top: 50px; */
+}
+.general {
+  background-color: #ffff;
+  /* height: 800px; */
+}
+.CEO {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.shop-1 {
+  width: 400px;
+  height: 200px;
+  object-fit: cover;
+  /* padding: 50px; */
+  border-radius: 10px;
+}
+.About {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+  color: rgb(11, 60, 11);
+  padding-top: 30px;
+}
+.name {
+  color: rgb(9, 41, 9);
+  font-size: 20px;
+  font-weight: 600;
+}
+.gen {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+  margin-top: 50px;
+}
+.Team {
+  width: 250px;
+}
+.contact {
+  font-size: 28px;
+  font-weight: 600;
+  color: rgb(8, 34, 8);
+  padding-top: 30px;
+  margin-bottom: 40px;
+  margin-left: 13rem;
+}
+
+.combine {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.combin {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.btn-1 {
+  height: 40px;
+  border-radius: 7px;
+  border: none;
+  background-color: rgb(10, 40, 10);
+  color: white;
+  font-size: 16px;
+  word-spacing: 2px;
+  font-weight: 500;
+}
+.btn-2 {
+  height: 40px;
+  border-radius: 7px;
+  border: none;
+  background-color: rgb(8, 36, 8);
+  color: white;
+  font-size: 16px;
+  word-spacing: 2px;
+  font-weight: 500;
+}
+.btn-3 {
+  height: 40px;
+  width: 180px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(8, 31, 8);
+  color: white;
+  font-size: 16px;
+  word-spacing: 2px;
+  font-weight: 500;
+  margin-left: 15px;
+}
+.btn-4 {
+  height: 30px;
+  width: 180px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(6, 34, 6);
+  color: white;
+  font-size: 16px;
+  word-spacing: 2px;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.btn-5 {
+  height: 30px;
+  width: 180px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(10, 43, 10);
+  color: white;
+  font-size: 16px;
+  word-spacing: 2px;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.btn-6 {
+  height: 30px;
+  width: 180px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(8, 42, 8);
+  color: white;
+  font-size: 16px;
+  word-spacing: 2px;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.btn-7 {
+  height: 30px;
+  width: 180px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(9, 49, 9);
+  color: white;
+  font-size: 16px;
+  word-spacing: 2px;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.logoo {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 15rem;
+  height: 70px;
+  margin-top: -5rem;
+}
+
+.contact-info {
+  display: flex;
+  margin-right: 2rem;
+}
+.Facebook {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.number {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.link-3 {
+  color: rgb(144, 194, 250);
+}
+.text-1 {
+  width: 800px;
+  margin-left: 30px;
+  /* margin-top: 30px; */
+  font-size: 20px;
+  line-height: 2;
+}
+.copy {
+  color: rgb(8, 34, 8);
+  padding-top: 30px;
+  margin-bottom: 40px;
+  margin-left: 39rem;
+}

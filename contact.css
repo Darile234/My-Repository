@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px;
+  margin: 10px;
+}
+.siri{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.rati{
+   margin: 30px 0 5px 0;
+     font-weight: 600;
+    font-size: 30px;
+    color: #2f4f4f;
+    margin-right: 430px;
+    margin-left: 60px;
+}
+.map-img{
+  width: 500px;
+  height: 200px;
+}
+.rep{
+  width: 500px;
+  text-align: left;
+  margin-top: 20px;
+}
+.hoo {
+  text-align: center;
+  color: #2f4f4f;
+  font-weight: 600;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 0;
+}

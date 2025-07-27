@@ -1,0 +1,100 @@
+.fridge{
+    width: 300px;
+    height: 500px;
+    border-radius: 5px;
+}
+.man-1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-right: 10px;
+    border-color: black;
+    border-style: solid;
+}
+.tomo{
+    display: flex;
+    align-items: center;
+}
+.timot{
+    font-weight: 600;
+    font-size: 20px;
+    color: #2f4f4f;
+    
+}
+.rev{
+    font-weight: 600;
+    font-size: 30px;
+    color: #2f4f4f;
+    text-align: center;
+    margin-top: 30px;
+}
+.bot-5{
+    background-color: #2f4f4f;
+    width: 300px;
+    height: 10px;
+    border-radius: 50px;
+}
+.bot-4{
+    background-color: #2f4f4f;
+    width: 250px;
+    height: 10px;
+    border-radius: 50px
+}
+.bot-3{
+    background-color: #2f4f4f;
+    width: 180px;
+    height: 10px;
+    border-radius: 50px
+}
+.bot-2{
+    background-color: #2f4f4f;
+    width: 120px;
+    height: 10px;
+    border-radius: 50px
+}
+.bot-1{
+    background-color: #2f4f4f;
+    width: 50px;
+    height: 10px;
+    border-radius: 50px
+}
+.pi{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-right: 780px;
+    gap: 30px;
+}
+.see{
+    font-style: italic;
+    color: #1e90ff;
+    font-size: 13px;
+cursor: pointer;
+}
+.tomo{
+    margin-top: px;
+}
+.star-4{
+    color: #2f4f4f;
+    font-weight: 600;
+    text-align: left;
+    margin: 5px 0 5px 0;
+}
+.rating{
+    margin: 20px 0 5px 0;
+     font-weight: 600;
+    font-size: 20px;
+    color: #2f4f4f;
+    margin-right: 430px;
+}
+.lorem{
+width: 700px;
+text-align: left;
+}
+.po{
+    margin-right: 700px;
+}
+.re{
+align-items: center;
+justify-self: center;
+
+}
